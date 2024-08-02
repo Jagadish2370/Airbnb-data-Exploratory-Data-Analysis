@@ -1,6 +1,6 @@
 # Airbnb-data-Exploratory-Data-Analysis
 
-# Airbnb NYC 2019 Data Analysis
+
 
 ## Project Overview
 This project conducts an exploratory data analysis (EDA) on Airbnb NYC 2019 dataset. It aims to uncover insights about Airbnb listings in New York City, including preferences in room types, neighborhood popularity, pricing trends, and host behaviors.
