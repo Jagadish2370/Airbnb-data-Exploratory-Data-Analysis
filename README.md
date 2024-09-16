@@ -44,9 +44,16 @@ The project includes various visualizations such as:
 These visualizations help in understanding the distribution and relationships between different variables in the dataset.
 
 ## How to Run
+#### EDA 
 1. Ensure you have Python installed along with the required libraries (numpy, pandas, seaborn, matplotlib).
 2. Download the "Airbnb NYC 2019.csv" file and place it in the same directory as the script.
 3. Run the Python script to perform the analysis and generate visualizations.
+
+#### Power BI Dashboard:
+1. Install Power BI Desktop (if not already installed).
+2. Open the .pbix file included in the project.
+3. Refresh the data source if needed.
+4. Interact with the dashboard to explore the data.
 
 ## Future Work
 - Incorporate more recent data to track changes over time.
