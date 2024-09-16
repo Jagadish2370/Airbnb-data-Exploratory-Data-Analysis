@@ -1,4 +1,4 @@
-# Airbnb-data-Exploratory-Data-Analysis
+# Airbnb-data-Exploratory-Data-Analysis || Power BI Dashboard
 
 
 
@@ -13,6 +13,9 @@ The analysis uses the "Airbnb NYC 2019.csv" file, which contains information abo
 - pandas
 - seaborn
 - matplotlib
+
+## Visualization Tools
+- Power BI
 
 ## Key Analysis Points
 1. Room type preferences
@@ -52,3 +55,7 @@ These visualizations help in understanding the distribution and relationships be
 
 ## Contributors
 This project was completed as an individual contribution.
+
+## Images
+![{E90DA108-E7E4-4770-B303-C7E0241445CC}](https://github.com/user-attachments/assets/1aba0957-a960-46f1-9cb5-4479fa65aced)
+
